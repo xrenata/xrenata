@@ -8,7 +8,7 @@
 <a href="https://open.spotify.com/user/renata" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.instagram.com/emirhancelik26" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/renata" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="https://https://discord.gg/XkxYYRvQPV" target"blank_"><img src="https://img.shields.io/discord/811957733305614366?style=for-the-badge&color=7289da&label=Creaxy&logo=discord"></a>
+ <a href="https://discord.gg/XkxYYRvQPV" target"blank_"><img src="https://img.shields.io/discord/811957733305614366?style=for-the-badge&color=7289da&label=Creaxy&logo=discord"></a>
 <a href="https://discord.com/invite/JSvKxPs" target"blank_"><img src="https://img.shields.io/discord/685767837591142404?style=for-the-badge&color=7289da&label=codare&logo=node.js&logoColor=white"></a>
 </p>
 
