@@ -16,4 +16,4 @@
 - [turkmanga.net](https://turkmanga.net), A free platform created for manga lovers.
 - [codare.fun](https://codare.fun), You can easily learn and access the codes on this site. You can access all codes by browsing through the site!
 ## My Discord 🎄
-![My Discord](https://lantern.rest/api/v1/users/937316083533230110?svg=1)
+![My Discord](https://lantern.rest/api/v1/users/937316083533230110?svg=1&theme=dark&borderRadius=2&hideActivity=1&hideStatus=0)
