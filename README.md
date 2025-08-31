@@ -9,7 +9,8 @@
 ## My Projects ✨
 
 - [emirhan.cv](https://emirhan.cv), made with React, TypeScript, and TailwindCSS. It includes a breakdown of my top Spotify tracks!
-- [stubudy.com.tr](beta.stubudy.com.tr), Stubudy is an AI-powered study platform designed to help students learn more efficiently.
+- [stubudy.com.tr](https://beta.stubudy.com.tr), Stubudy is an AI-powered study platform designed to help students learn more efficiently.
+- [hospital.project](https://github.com/xrenata/hospitalproject) Full-stack Hospital Management System built with Next.js (React) and Express.js.
 - [discord.place](https://discord.place), All things related to Discord in one place.
 - [disbot.com.tr](https://disbot.com.tr), Are you looking for any special bot for your Discord server? Leave that job to us and contact us.
 - [lantern.rest](https://lantern.rest), makes it incredibly easy to reveal your live Discord status through a RESTful API and WebSocket connection in under 10 seconds.
